@@ -1,4 +1,4 @@
-
+{
    "black": {
        "description": "Commonly used with text",
        "properties": {
@@ -29,4 +29,4 @@
          "hex": "#FFFFFF"
        }
    }
- 
+ }
