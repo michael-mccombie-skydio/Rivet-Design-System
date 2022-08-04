@@ -1,1 +1,32 @@
-{  "black": {      "description": "Commonly used with text",      "properties": {        "hex": "#000000"      }  }, "gray-dark": {      \"description\": \"Commonly used with disabled states\",      \"properties\": {       \"hex\": \"#8C8C8C\"      }  },  \"gray-medium\": {      \"description\": \"Commonly used with borders\",\n      \"properties\": {\n        \"hex\": \"#D9D9D9\"\n      }\n  },\n  \"gray-light\": {\n      \"description\": \"Commonly used with backgrounds\",\n      \"properties\": {\n        \"hex\": \"#FAFAFA\"\n      }\n  },\n  \"white\": {\n      \"description\": \"Commonly used with backgrounds\",\n      \"properties\": {\n        \"hex\": \"#FFFFFF\"      }  }}
+{
+  "black": {
+      "description": "Commonly used with text",
+      "properties": {
+        "hex": "#000000"
+      }
+  },
+  "gray-dark": {
+      "description": "Commonly used with disabled states",
+      "properties": {
+        "hex": "#8C8C8C"
+      }
+  },
+  "gray-medium": {
+      "description": "Commonly used with borders",
+      "properties": {
+        "hex": "#D9D9D9"
+      }
+  },
+  "gray-light": {
+      "description": "Commonly used with backgrounds",
+      "properties": {
+        "hex": "#FAFAFA"
+      }
+  },
+  "white": {
+      "description": "Commonly used with backgrounds",
+      "properties": {
+        "hex": "#FFFFFF"
+      }
+  }
+}
