@@ -1,0 +1,14 @@
+{
+  "black": {
+      "description": "Commonly used with text",
+      "properties": {
+        "hex": "#000000"
+      }
+  },
+  "gray-dark": {
+      "description": "Commonly used with disabled states",
+      "properties": {
+        "hex": "#8C8C8C"
+      }
+  }
+}
