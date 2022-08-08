@@ -34,11 +34,5 @@
 		"properties": {
 			"hex": "#FF0000"
 		}
-	},
-	"New Red": {
-		"description": "",
-		"properties": {
-			"hex": "#d43434"
-		}
 	}
 }
