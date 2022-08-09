@@ -1,0 +1,14 @@
+{
+   "sm":{
+      "description":"Font size small description",
+      "properties":{
+         "value":"12"
+      }
+   },
+   "md":{
+      "description":"Font size medium description",
+      "properties":{
+         "value":"16"
+      }
+   }
+}
