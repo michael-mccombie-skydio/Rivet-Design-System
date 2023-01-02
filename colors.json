@@ -28,5 +28,11 @@
       "properties":{
          "hex":"#FFFFFF"
       }
+   },
+   "blue":{
+      "description":"Test description",
+      "properties":{
+         "hex":"#0000FF"
+      }
    }
 }
